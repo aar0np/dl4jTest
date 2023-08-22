@@ -3,3 +3,4 @@
 .project
 .settings/
 target/
+data/word2Vec_output.txt
